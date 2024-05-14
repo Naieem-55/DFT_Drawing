@@ -2,10 +2,16 @@
 
 This repository contains code to create animations of portraits using Discrete Fourier Transform (DFT) and epicycles. 
 
+![nepal](https://github.com/Naieem-55/DFT_Drawing/assets/60366614/9811b75f-7e6d-4287-a4a7-4a7cc9e9bd9a)
+
+<img width="397" alt="drawing" src="https://github.com/Naieem-55/DFT_Drawing/assets/60366614/107cf3bd-c6f4-4544-a204-052174765ee4">
+
 
 ## Overview
 
 The code in this repository allows you to generate animations of portraits using DFT and epicycles. It takes an input image, extracts the edges, computes the Fourier coefficients, and then animates the drawing process using epicycles.
+
+
 
 ## Features
 
